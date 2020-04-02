@@ -58,7 +58,7 @@ Pour organiser mon code j'ai séparer chaque partie dans un seul programme , aut
    Sur le menu bar existe de button ficher et aide . 
    * Ficher :arrow_right: Quitter  → pour fermer l'application  on peut aussi cliquer sur Off .
     <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.33.47.jpg" ></img>
-   * Aide : apropos .
+   * Aide : apropos .<br/>
    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.34.00.jpg"></img>  
    * On clique :computer_mouse:  sur apropos va afficher un message box pour me contacer si il ya  une erreur ou problème . 
    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot from 2020-04-02 07-38-15.jpg"></img>
