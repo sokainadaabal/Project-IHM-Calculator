@@ -46,10 +46,10 @@ Pour organiser mon code j'ai séparer chaque partie dans un seul programme , aut
        - sin 
        - les chiffres 
        - ..... <br/>
-###### :arrow_right: 
-        Dans le Constructeur on va faire l'apples du tous ces Functions . <br/>
+  
+###### :arrow_right: Dans le Constructeur on va faire l'apples du tous ces Functions . 
 ## :film_strip: Screen du L'application : 
-### :pushpin: Mode Standard :
-<img src=""/>
-### :pushpin:  Mode Scientifique :
-### :pushpin:  Menu Bar  :   
+  ### :pushpin: Mode Standard :
+<img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot%20from%202020-04-02%2007-16-54.jpg"></img>
+  ### :pushpin:  Mode Scientifique :
+  ### :pushpin:  Menu Bar  :   
