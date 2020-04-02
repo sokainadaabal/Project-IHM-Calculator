@@ -53,16 +53,16 @@ Pour organiser mon code j'ai séparer chaque partie dans un seul programme , aut
 <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot%20from%202020-04-02%2007-16-54.jpg"></img>
   ### :pushpin:  Mode Scientifique :
   pour passer :arrow_right: vers le mode Scientifique on :computer_mouse: clique sur SCI
-  <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot%20from%202020-04-02%2007-19-00.jpg">
+  <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot%20from%202020-04-02%2007-19-00.jpg"></img>
   ### :pushpin:  Menu Bar:
-   
    Sur le menu bar existe de button ficher et aide . 
-   * Ficher :arrow_right: Quitter  → pour fermer l'application  on peut aussi cliquer sur Off .<br/>
-    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.33.47.jpg" />
-   * Aide : apropos .<br/>
-   <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.34.00.jpg"/>
-   * :computer_mouse: on clique sur apropos va afficher un message box pour me contacer si il ya  une erreur ou problème . 
-   <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot from 2020-04-02 07-38-15.jpg"/>
- ## :bangbang: Conclusion :
+   * Ficher :arrow_right: Quitter  → pour fermer l'application  on peut aussi cliquer sur Off .
+    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.33.47.jpg" ></img>
+   * Aide : apropos .
+   <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.34.00.jpg"></img>  
+   * On clique :computer_mouse:  sur apropos va afficher un message box pour me contacer si il ya  une erreur ou problème . 
+   <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot from 2020-04-02 07-38-15.jpg"></img>
+                
+               
  
    
