@@ -62,7 +62,11 @@ Pour organiser mon code j'ai séparer chaque partie dans un seul programme , aut
    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/WhatsApp%20Image%202020-04-02%20at%2007.34.00.jpg"></img>  
    * On clique :computer_mouse:  sur apropos va afficher un message box pour me contacer si il ya  une erreur ou problème . 
    <img src="https://github.com/sokainadaabal/Project-IHM-Calculator/blob/master/img/Screenshot from 2020-04-02 07-38-15.jpg"></img>
-                
-               
+  ## Conclusion  :bangbang::
+Je tenais à remercier Mon chére Professeur Mr Baddi Youssef , Doctorant et Professeur assistant à L'école supérieure de téchnologie de Sidi Bennour, pour leur soutien , encadrant anisi le partage de l'inforamtion , et grace à lui on a cette opportunité d'améliorer et tester  mes compétences et de connaître les nouvelles technologies comme ces géantes que elle j'ai travaillée    :pray: :pray: :pray: :pray: .
+             
  
    
+Plus sur MR [Baddi Youssef](https://https://www.linkedin.com/in/youssefbaddi/?locale=fr_FR).
+
+Crée Par : Sokaina Daabal
